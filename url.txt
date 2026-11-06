@@ -1,1 +1,1 @@
-Url: https://dashboard-ecommerce-razzaq.streamlit.app/
+https://dashboard-ecommerce-razzaq.streamlit.app/
